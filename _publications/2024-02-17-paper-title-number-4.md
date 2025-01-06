@@ -3,7 +3,7 @@ title: "Exploring Visual Factors Influencing Women's Perceived Insecurity in Met
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'First author'
 date: 2024-04-26
 venue: 'CAADRIA 2024'
 slidesurl: 'http://jiaxin0628.github.io/files/CAADRIA_Slide.pdf'
