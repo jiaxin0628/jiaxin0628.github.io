@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * M.S. in Italy, Politecnico di Milano
 * B.S. in China, Hebei University of Engineering
 
