@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-04-26
-venue: 'GitHub Journal of Bugs'
-slidesurl: 'http://jiaxin0628.github.io/files/A%20Comparative%20Analysis%20of%20Perceptions%20of%20Insecurity%20in%20Milan%20and%20Beijing%20Metro%20Stations_Slides.pdf'
+venue: 'CAADRIA 2024'
+slidesurl: 'http://jiaxin0628.github.io/files/CAADRIA_Slide.pdf'
 paperurl: 'http://jiaxin0628.github.io/files/Jiaxin%20Liu_CAADRIA.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
