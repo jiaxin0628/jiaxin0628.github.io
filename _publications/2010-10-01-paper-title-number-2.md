@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing Metro Stations"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is accepted in December 2024.'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: 'Frontiers of Architectural Research'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Metro stations, as essential public spaces, not only serve as vital transportation hubs but also form part of the broader built environment that shapes people’s perceptions of insecurity. An important concern for passengers in these environments is safety, particularly in underground public space where the design and organization of the physical surroundings play a crucial role. Despite various modern renovations in older metro stations, newer stations are generally perceived as safer. To understand this discrepancy, this research compares how visual factors in the built environments of old and new metro stations influence people’s perceptions of insecurity. By examining two cities—Milan and Beijing, which follow distinct urban development models—this research also explores how differences in urbanization processes affect the contrast between old and new stations. This research introduces a novel methodology for analyzing underground public space by integrating 360-degree image capture, an enhanced semantic segmentation process, and predictive modeling using XGBoost and SHAP to reveal the complex relationships between these visual factors and safety perceptions. The results indicate that while factors like artificial light, floor, and the presence of people are significant across all stations, certain factors are particularly influential in specific contexts— for example, exposed pipes are more negatively associated with safety perception in Beijing’s old stations, and platform doors have a strongly positive effect in Milan’s new stations. The findings provide valuable insights for guiding the modernization of metro stations in the future, and offering an innovative approach to studying underground public space.
