@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2024-12-31
 venue: 'Frontiers of Architectural Research'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://www.dropbox.com/scl/fi/ft2l2jl4522r1v10iuvun/A-Comparative-Analysis-of-Perceptions-of-Insecurity-in-Milan-and-Beijing-Metro-Stations.pdf?rlkey=vsl7kz5dxu6az6eqjt3vgq816&st=r9hbdia5&dl=0'
+paperurl: 'http://academicpages.github.io/files/A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing Metro Stations.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
