@@ -3,7 +3,7 @@ title: "Investigating associations between built environments and cycling behavi
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-3
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Third author'
 date: 2024-07-07
 venue: 'CDRF 2024'
 slidesurl: 'http://jiaxin0628.github.io/files/CDRF_Slide.pdf'
