@@ -3,6 +3,7 @@ title: "A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'First author.'
 excerpt: 'This paper is accepted in December 2024.'
 date: 2025-01-01
 venue: 'Frontiers of Architectural Research'
