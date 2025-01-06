@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-3
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-07-07
 venue: 'CDRF2024'
-slidesurl: 'http://jiaxin0628.github.io/files/CAADRIA_Slide.pdf'
+slidesurl: 'http://jiaxin0628.github.io/files/CDRF_Slide.pdf'
 paperurl: 'http://jiaxin0628.github.io/files/Investigating%20associations%20between%20built%20environments%20and%20cycling%20behaviour%20using%20street%20view%20imagery%20and%20Strava%20Metro%20data%20A%20case%20study%20in%20City%20of%20Sydney%2C%20Australia.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
