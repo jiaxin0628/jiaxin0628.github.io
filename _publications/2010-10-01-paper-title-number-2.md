@@ -7,7 +7,7 @@ excerpt: 'This paper is accepted in December 2024.'
 date: 2010-10-01
 venue: 'Frontiers of Architectural Research'
 slidesurl: 'http://jiaxin0628.github.io/files/slides2.pdf'
-paperurl: 'http://jiaxin0628.github.io/files/paper2.pdf'
+paperurl: 'http://jiaxin0628.github.io/files/A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing Metro Stations.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
