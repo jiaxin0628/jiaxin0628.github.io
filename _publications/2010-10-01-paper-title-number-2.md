@@ -3,8 +3,8 @@ title: "A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024-12-31
+excerpt: 'This paper is accepted in December 2024'
+date:
 venue: 'Frontiers of Architectural Research'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/A Comparative Analysis of Perceptions of Insecurity in Milan and Beijing Metro Stations.pdf'
