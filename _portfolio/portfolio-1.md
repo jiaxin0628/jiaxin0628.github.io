@@ -1,6 +1,6 @@
 ---
 title: "Library design"
-excerpt: "The library <br/><img src='/images/500x300.png'>"
+excerpt: "[Oasis in the Cross](https://www.polimi.it/en/) <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
