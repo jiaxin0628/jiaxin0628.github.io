@@ -1,6 +1,6 @@
 ---
 title: "Library design"
-excerpt: "Oasis in the Cross (A library design in Spain)，[Link to the full PDF](https://www.dropbox.com/scl/fi/rsatrhpq6iop25bakpui0/profile.pdf?rlkey=ao40yo6c9hqzhkk9nxle7bt2k&st=j144vbl2&dl=0) <br/><img src='/images/cover1.png'>"
+excerpt: "Oasis in the Cross (A library design in Spain)，[Link to the full PDF](https://www.dropbox.com/scl/fi/pskd63uxqk3i33zhiug91/Profile_library.pdf?rlkey=iffsiv4nqfu425jh0cdszuumj&st=etiwhmx2&dl=0) <br/><img src='/images/cover1.png'>"
 collection: portfolio
 ---
 
