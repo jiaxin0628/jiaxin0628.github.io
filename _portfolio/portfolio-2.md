@@ -1,6 +1,6 @@
 ---
 title: "Reconstruction of the old factory building"
-excerpt: "Interweaving the time with space (Activity center design)，[Link to the full PDF](https://www.dropbox.com/scl/fi/macagd41ectxkc92gxuzw/Profile_factory.pdf?rlkey=94295i4nbfey52nuvy6dzh5pf&st=bi8etgut&dl=0) <br/><img src='/images/cover2.png'>"
+excerpt: "Interweaving the time with space (Activity center design)，[Link to the full PDF](https://www.dropbox.com/scl/fi/yc76d2wzmi6mewes8rl9b/Profile_factory.pdf?rlkey=bj7a1sdo3vckdm60ug1564mix&st=n66vxrqs&dl=0) <br/><img src='/images/cover2.png'>"
 collection: portfolio
 ---
 
